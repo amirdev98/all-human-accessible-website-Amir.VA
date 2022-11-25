@@ -1,4 +1,7 @@
+:root{
+  --donkeremagenta: #610038;
 
+}
 html {
   scroll-behavior: smooth;
   overflow: scroll;
@@ -73,7 +76,7 @@ margin-bottom: 7rem;
   margin-right: 1.6rem;
   flex-wrap: wrap;
   position: fixed;
-  background-color: #b9005f;
+  background-color: var(--donkeremagenta);
   width: 13rem;
   padding: 2em;
   border-radius: 1rem;
@@ -89,12 +92,10 @@ margin-bottom: 7rem;
 .kaart {
   justify-content: center;
   align-content: center;
-  background-color:#b9005f;
+  background-color:var(--donkeremagenta);
 color: #fff;
 border-radius: 10px;
-background-color: #af6f90;
 color: #fff;
-border-radius: 10px;
 margin: 22rem;
 width: 40em;
 padding: 4rem;
