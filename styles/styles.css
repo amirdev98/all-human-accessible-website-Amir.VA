@@ -1,5 +1,5 @@
 :root{
-  --donkeremagenta: #610038;
+  --donkeremagenta: #3D0A03;
 
 }
 html {
@@ -112,7 +112,7 @@ box-shadow: 3rem;
   margin-bottom: 20px;
   margin-left: 100px;
   margin-right:100px;
-  background-color: gray;
+  background-color:var(--donkeremagenta);
   
   
    }
