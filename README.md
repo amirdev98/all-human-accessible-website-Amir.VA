@@ -1,4 +1,4 @@
-https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md
+https://github.com/fdnd-task/all-human-accessible-website/blob/main
 
 
 De User story:
